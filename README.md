@@ -1,5 +1,4 @@
 README
-## **UCLA CS260: Machine Learning HW1**
 
 **Data**
 
